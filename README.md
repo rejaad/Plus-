@@ -1,4 +1,4 @@
-# Plus-
+# Plus+
 A modpack that my Friends &amp; I play in our spare time.
 
 Introducing Plus+, a Minecraft modpack designed to take your gaming experience to the next level by enhancing the base game in exciting ways. With Plus+, your adventures in the world of blocks and creativity will be transformed with a range of features and additions. This modpack, featuring three stunning shaders, immerses you in a visually enhanced world where every landscape, structure, and creature comes to life with vibrant and realistic graphics.
