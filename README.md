@@ -9,4 +9,4 @@ One of the key highlights of Plus+ is the variety of decorative blocks it introd
 
 Plus+ is the ultimate modpack for those who want to enhance their Minecraft experience while staying true to the game's core essence. With shaders, advancements, decorative blocks, and an array of new mob variants, your adventures in the blocky world will be more thrilling and captivating than ever before. Dive into Plus+ today and embark on a journey of endless possibilities and creativity within Minecraft.
 
-<p>Support me on <a href="Ko-fi.com/rejaad" target="_blank" rel="noopener noreferrer">Ko-fi</p>
+<p>Support me on <a href="https://www.ko-fi/rejaad" target="_blank" rel="noopener noreferrer">Ko-Fi</a>.</p>
